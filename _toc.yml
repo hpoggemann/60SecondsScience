@@ -1,0 +1,9 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Proteine
+- file: Die_spannendsten_Erfindungen_des_Lebens
+- file: Die_Physik_dahinter
